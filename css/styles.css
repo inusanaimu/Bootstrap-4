@@ -53,3 +53,14 @@ body {
   right: 0p;
   position: absolute;
 }
+.modal-header {
+  background: #512da8;
+  color: #ffffff;
+}
+.close {
+  color: floralwhite;
+}
+
+.modal-body {
+  background-color: #9575cd;
+}
